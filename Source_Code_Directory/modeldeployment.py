@@ -52,38 +52,38 @@ class ModelAPI:
             # Define the input data model
             self.logger.log_info("Defining the input data model")
             class ModelInput(BaseModel):
-                Time: float
-                V1: float
-                V2: float
-                V3: float
-                V4: float
-                V5: float
-                V6: float
-                V7: float
-                V8: float
-                V9: float
-                V10: float
-                V11: float
-                V12: float
-                V13: float
-                V14: float
-                V15: float
-                V16: float
-                V17: float
-                V18: float
-                V19: float
-                V20: float
-                V21: float
-                V22: float
-                V23: float
-                V24: float
-                V25: float
-                V26: float
-                V27: float
-                V28: float
-                V29: float
-                Amount: float
-                Class: float
+                Feature1: float
+                Feature2: float
+                Feature3: float
+                Feature4: float
+                Feature5: float
+                Feature6: float
+                Feature7: float
+                Feature8: float
+                Feature9: float
+                Feature10: float
+                Feature11: float
+                Feature12: float
+                Feature13: float
+                Feature14: float
+                Feature15: float
+                Feature16: float
+                Feature17: float
+                Feature18: float
+                Feature19: float
+                Feature20: float
+                Feature21: float
+                Feature22: float
+                Feature23: float
+                Feature24: float
+                Feature25: float
+                Feature26: float
+                Feature27: float
+                Feature28: float
+                Feature29: float
+                Feature30: float
+                Feature31: float
+                TargetFeature: float
 
             # Define the prediction endpoint
             self.logger.log_info("Defining the prediction endpoint")
