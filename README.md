@@ -211,8 +211,8 @@ Final Model Choice:
 Steps to Install and Run the Project:
   a) Clone the Repository:
 
-     git clone https://github.com/PriyeshSharma1998/The_SecureLink_Stratos_System_ML_Project.git
-     cd project-name
+     git clone https://github.com/PriyeshSharma1998/The_SecureLink_Stratos_System_AI.git
+     cd The_SecureLink_Stratos_System_AI
   
   b) Install Dependencies:
      
