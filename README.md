@@ -211,7 +211,7 @@ Final Model Choice:
 Steps to Install and Run the Project:
   a) Clone the Repository:
 
-     git clone https://github.com/yourusername/project-name.git
+     git clone https://github.com/PriyeshSharma1998/The_SecureLink_Stratos_System_ML_Project.git
      cd project-name
   
   b) Install Dependencies:
@@ -239,9 +239,9 @@ b) Evaluate Models:
 10) Contact:
 If you have any questions or suggestions, feel free to reach out.
 
-Name: Priyesh Kumar Sharma Tumbur
-Email: priyeshsharma812@gmail.com
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
+Name: Priyesh Kumar Sharma Tumbur  
+Email: priyeshsharma812@gmail.com  
+LinkedIn: [linkedin.com/in/priyesh-sharma-a11048270](https://linkedin.com/in/priyesh-sharma-a11048270)  
+GitHub: [github.com/PriyeshSharma1998](https://github.com/PriyeshSharma1998)
 
 "# The_SecureLink_Stratos_System_ML_Project" 
