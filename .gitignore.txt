@@ -1,0 +1,41 @@
+# Ignore system files and user directories
+AppData/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Anaconda and Python virtual environments
+anaconda3/
+.conda/
+.venv/
+env/
+venv/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+.eclipse/
+.pydevproject
+
+# Ignore Git config files
+.gitconfig
+
+# Ignore system files
+NTUSER.*
+ntuser.*
+Thumbs.db
+.DS_Store
+*.log
+*.bak

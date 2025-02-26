@@ -1,0 +1,24 @@
+# FastAPI and related dependencies  
+fastapi  
+uvicorn  
+
+# Environment variable management  
+python-dotenv  
+
+# Data processing  
+numpy  
+pandas  
+seaborn  
+matplotlib  
+scikit-learn  
+imblearn  
+
+# Machine Learning models  
+xgboost  
+joblib  
+
+# Logging  
+logging  
+
+# API security  
+pydantic  
